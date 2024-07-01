@@ -120,5 +120,17 @@
         >
 
     </androidx.appcompat.widget.AppCompatButton>
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VIEW FRIENDS"
+        android:textColor="#FFFFFF"
+        android:background="#000000"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:id="@+id/frib"
+        >
+
+    </androidx.appcompat.widget.AppCompatButton>
 
 </LinearLayout>
